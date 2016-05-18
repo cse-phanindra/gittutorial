@@ -1,0 +1,17 @@
+jira free download
+QC[ALM] free download
+
+micromax os downgrade
+study on protractor in its official website
+study on devops
+get selenium notebook from srilatha also
+
+how to setup C# selenium project from scratch?  do this 2moro
+
+harish: what is the main plug-ins/add-ons to be useful for selenium testing [java]... what you have used till now
+
+
+
+I recently setup a Continuous Integration system for an AngularJS app at work. The full stack: AngularJS, Jasmine, Protractor JS, WebdriverJS, Selenium Node, Selenium Grid, Grunt, Grunt Concurrency plugin, Grunt Protractor plugin, Jenkins, Ubuntu, Virtual Box.
+
+Whenever any developer does a Git commit, Jenkins receives a callback, calls Grunt, which autostarts a collection of Windows vm images in Virtualbox, when runs a series of Protractor JS tests, using Jasmine for assertions. It helps abstract away the need to synchronize the various AJAX calls, and not need to constantly recheck for the existence of DOM elements.
