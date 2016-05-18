@@ -1,0 +1,2 @@
+Webservice vs API
+it is not same, webservice will be like 
